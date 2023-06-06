@@ -1,4 +1,4 @@
-# UAS pbo
+# UAS pbo (Notepad)
 Nama: Evelyn Eunike Aritonang
 
 NPM: G1A022024
