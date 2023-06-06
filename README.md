@@ -1,4 +1,4 @@
-# UAS pbo (Notepad)
+# UAS pbo ( Pembuatan Aplikasi Notepad)
 Nama: Evelyn Eunike Aritonang
 
 NPM: G1A022024
